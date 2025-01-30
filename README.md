@@ -1,4 +1,3 @@
-# Ipsos-Market-Research-Simulation
 # Ipsos-Inspired Market Research Project
 
 ## Overview
