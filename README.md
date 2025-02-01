@@ -1,4 +1,4 @@
- Ipsos-Inspired Market Research Project
+# Ipsos-Inspired Market Research Project
 
 ## Overview
 This project simulates an end-to-end market research study inspired by Ipsos' methodology. The goal is to design a questionnaire, test its validity, simulate collaboration with internal teams, collect and clean data, and present actionable business insights. This repository documents each phase of the project.
@@ -78,13 +78,6 @@ Ipsos-Inspired-Market-Research-Project/
 ## **Next Steps**
 - Share insights with internal stakeholders for business decision-making.
 - Expand project scope by testing different survey topics and methodologies.
-
-For any questions or feedback, feel free to reach out!
-
----
-
-**End of Documentation**
-
 
 For any questions or feedback, feel free to reach out!
 
