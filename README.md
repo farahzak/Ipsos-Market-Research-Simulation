@@ -7,6 +7,7 @@ One thing I was really excited to do was simulate a project going over how resea
 
 ## **Project Methodology**
 
+![Questionnaire Screenshot](https://github.com/farahzak/Ipsos-Market-Research-Simulation/raw/main/questionnaire.png)
 
 ### **1. Questionnaire Development**
 - A consumer survey was designed to assess preferences and barriers toward sustainable product adoption.
