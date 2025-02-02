@@ -24,6 +24,7 @@ One thing I was really excited to do was simulate a project going over how resea
   
   ![QA Testing Screenshot](https://github.com/farahzak/Ipsos-Market-Research-Simulation/raw/main/screenshots/qa_testing.png)
 
+
 ---
 
 ### **3. Collaboration with Internal Teams**
