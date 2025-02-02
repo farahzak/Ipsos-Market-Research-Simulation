@@ -13,9 +13,8 @@ One thing I was really excited to do was simulate a project going over how resea
 - **[View the Questionnaire (PDF)]([https://github.com/farahzak/Ipsos-Market-Research-Simulation/raw/main/ipsos_questionnaire.pdf](https://github.com/farahzak/Ipsos-Market-Research-Simulation/blob/21982fb06d277190483fee383ed5a6e306da0d78/Questionnaire_%20Ipsos-Inspired%20Market%20Research%20Study.pdf))**
 - Screenshot example:
   
-  ![Questionnaire Screenshot]([![Questionnaire Screenshot](https://github.com/farahzak/Ipsos-Market-Research-Simulation/raw/main/screenshots/questionnaire.png))
+ ![Questionnaire Screenshot](https://github.com/farahzak/Ipsos-Market-Research-Simulation/raw/main/screenshots/questionnaire.png)
 
----
 
 ### **2. Quality Assurance (QA) Testing**
 - Ensured question clarity, correct logic flow, and accurate data capture.
