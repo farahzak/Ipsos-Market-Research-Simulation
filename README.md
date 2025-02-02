@@ -1,7 +1,7 @@
 # Ipsos-Inspired Market Research Project
 
 ## Overview
-This project simulates an end-to-end market research study inspired by Ipsos' methodology. The goal is to design a questionnaire, test its validity, simulate collaboration with internal teams, collect and clean data, and present actionable business insights. This repository documents each phase of the project.
+One thing I was really excited to do was simulate a project going over how researching in the role I was applying too would be. Using Ai and my own creative questions, I was able to simulate a process that goes over what a research analyst might encounter and the types of skills needed. Clearly being a naturl problem solver and being able to communicate effectively while also delivering high quality work is the key. This project simulates an end-to-end market research study inspired by Ipsos' methodology. The goal is to design a questionnaire, test its validity, simulate collaboration with internal teams, collect and clean data, and present actionable business insights. This repository documents each phase of the project.
 
 ---
 
@@ -9,10 +9,10 @@ This project simulates an end-to-end market research study inspired by Ipsos' me
 
 ### **1. Questionnaire Development**
 - A consumer survey was designed to assess preferences and barriers toward sustainable product adoption.
-- **[View the Questionnaire (PDF)](https://github.com/farahzak/Ipsos-Market-Research-Simulation/raw/main/ipsos_questionnaire.pdf)**
+- **[View the Questionnaire (PDF)]([https://github.com/farahzak/Ipsos-Market-Research-Simulation/raw/main/ipsos_questionnaire.pdf](https://github.com/farahzak/Ipsos-Market-Research-Simulation/blob/21982fb06d277190483fee383ed5a6e306da0d78/Questionnaire_%20Ipsos-Inspired%20Market%20Research%20Study.pdf))**
 - Screenshot example:
   
-  ![Questionnaire Screenshot](https://github.com/farahzak/Ipsos-Market-Research-Simulation/raw/main/screenshots/questionnaire.png)
+  ![Questionnaire Screenshot]([https://github.com/farahzak/Ipsos-Market-Research-Simulation/raw/main/screenshots/questionnaire.png](https://github.com/farahzak/Ipsos-Market-Research-Simulation/blob/21982fb06d277190483fee383ed5a6e306da0d78/Barrier%20to%20adoption.png))
 
 ---
 
@@ -56,9 +56,6 @@ Ipsos-Inspired-Market-Research-Project/
 ├── qa_report_mock.pdf
 ├── collaboration_log.pdf
 ├── data_verification_report.pdf
-├── datasets/
-│   ├── raw_data.csv
-│   ├── cleaned_data.csv
 ├── screenshots/
 │   ├── questionnaire.png
 │   ├── qa_testing.png
