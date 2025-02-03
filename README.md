@@ -1,7 +1,7 @@
 # Ipsos-Inspired Market Research Project
 
 ## Overview
-One thing I was really excited to do was simulate a project going over how researching in the role I was applying to would be. Using AI and some of my own creative questions, I was able to simulate a process that goes over what a research analyst might encounter and the types of skills needed. Clearly, being a natural problem solver and being able to communicate effectively while also delivering high-quality work is key. 
+Hey I'm Zak! One thing I was really excited to do was simulate a project going over how researching in the role I was applying to would be. Using AI and some of my own creative questions, I was able to simulate a process that goes over what a research analyst might encounter and the types of skills needed. Clearly, being a natural problem solver and being able to communicate effectively while also delivering high-quality work is key. 
 
 This project simulates an end-to-end market research study inspired by Ipsos' methodology. The goal is to design a questionnaire for a retail company, test its validity, simulate collaboration with internal teams, collect and clean data, and present actionable business insights. This repository documents each phase of the project.
 
@@ -77,11 +77,12 @@ By running quality checks on scale-based responses, I was able to flag anomalies
 
 ---
 
-## **Next Steps**
-- Share insights with internal stakeholders for business decision-making.
-- Expand project scope by testing different survey topics and methodologies.
+## **Conclusion**
+This project was an exciting deep dive into what a research analyst role truly entails. From designing the questionnaire to ensuring data integrity and crafting meaningful insights, I got firsthand experience in balancing consumer feedback with business objectives. The biggest takeaway from this study was how small adjustments in survey design—such as clearer definitions, improved question flow, and incentives—can lead to significantly better data collection. 
 
-For any questions or feedback, feel free to reach out!
+Through this process, I gained stronger problem-solving skills, learned how to document and communicate research findings effectively, and reinforced my ability to work in a structured research-driven environment. This project made me even more confident in my ability to approach real-world research challenges with both critical thinking and a strategic mindset. 
+
+If you've made it this far, thanks for reading! If you have any feedback or thoughts, feel free to reach out!
 
 ---
 
