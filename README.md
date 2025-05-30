@@ -6,7 +6,7 @@ Hey I'm Zak! One thing I was really excited to do was simulate a project going o
 This project simulates an end-to-end market research study inspired by Ipsos' methodology. The goal is to design a questionnaire for a retail company, test its validity, simulate collaboration with internal teams, collect and clean data, and present actionable business insights. This repository documents each phase of the project.
 
 ---
-![Customer Segmentation](https://github.com/farahzak/Ipsos-Market-Research-Simulation/blob/main/images/customer_segments.png)
+![Customer Segmentation]([https://github.com/farahzak/Ipsos-Market-Research-Simulation/blob/main/images/customer_segments.png](https://github.com/farahzak/Ipsos-Market-Research-Simulation/blob/main/images/Customer%20Segment%20Distribution%20(1).png))
 
 ## **Project Methodology**
 
