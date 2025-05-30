@@ -6,16 +6,6 @@ Hey I'm Zak! One thing I was really excited to do was simulate a project going o
 This project simulates an end-to-end market research study inspired by Ipsos' methodology. The goal is to design a questionnaire for a retail company, test its validity, simulate collaboration with internal teams, collect and clean data, and present actionable business insights. This repository documents each phase of the project.
 
 ---
-![Questionnaire](https://github.com/farahzak/Ipsos-Market-Research-Simulation/blob/main/images/Questionnaire.png)
-
-![Quality Assurance](https://github.com/farahzak/Ipsos-Market-Research-Simulation/blob/main/images/Quality%20Assurance.png)
-
-![Mock Emails](https://github.com/farahzak/Ipsos-Market-Research-Simulation/blob/main/images/Mock%20Emails.png)
-
-![Data Verification](https://github.com/farahzak/Ipsos-Market-Research-Simulation/blob/main/images/Data%20verificatio.png)
-
-![Customer Segment Distribution](https://github.com/farahzak/Ipsos-Market-Research-Simulation/blob/main/images/Customer%20Segment%20Distribution%20(1).png)
-
 
 ## **Project Methodology**
 
@@ -30,7 +20,7 @@ Another key point was trying to find issues as to why consumers were not leaning
 - **[View the Questionnaire (PDF)](https://github.com/farahzak/Ipsos-Market-Research-Simulation/raw/main/ipsos_questionnaire.pdf)**
 - Screenshot example:
   
-![Questionnaire Screenshot](https://github.com/farahzak/Ipsos-Market-Research-Simulation/blob/main/images/questionnaire_screenshot.png)
+  ![Questionnaire](https://github.com/farahzak/Ipsos-Market-Research-Simulation/blob/main/images/Questionnaire.png)
 
 ---
 
@@ -44,7 +34,7 @@ Another change to the survey was question grouping on redundant questions. Quest
 - **[View QA Report (PDF)](https://github.com/farahzak/Ipsos-Market-Research-Simulation/raw/main/qa_report_mock.pdf)**
 - Screenshot example:
   
-  ![QA Testing Screenshot](https://github.com/farahzak/Ipsos-Market-Research-Simulation/raw/main/screenshots/qa_testing.png)
+  ![Quality Assurance](https://github.com/farahzak/Ipsos-Market-Research-Simulation/blob/main/images/Quality%20Assurance.png)
 
 ---
 
@@ -60,7 +50,7 @@ This phase helped me practice structuring professional communication and documen
 - **[View Collaboration Log (PDF)](https://github.com/farahzak/Ipsos-Market-Research-Simulation/raw/main/collaboration_log.pdf)**
 - Screenshot example:
   
-  ![Collaboration Log Screenshot](https://github.com/farahzak/Ipsos-Market-Research-Simulation/raw/main/screenshots/collaboration_log.png)
+  ![Mock Emails](https://github.com/farahzak/Ipsos-Market-Research-Simulation/blob/main/images/Mock%20Emails.png)
 
 ---
 
@@ -76,7 +66,20 @@ By running quality checks on scale-based responses, I was able to flag anomalies
 - **[View Data Verification Report (PDF)](https://github.com/farahzak/Ipsos-Market-Research-Simulation/raw/main/data_verification_report.pdf)**
 - Screenshot example:
   
-  ![Data Verification Screenshot](https://github.com/farahzak/Ipsos-Market-Research-Simulation/raw/main/screenshots/data_verification.png)
+  ![Data Verification](https://github.com/farahzak/Ipsos-Market-Research-Simulation/blob/main/images/Data%20verificatio.png)
+
+---
+
+### **5. Customer Segmentation Analysis**
+
+Once the data was validated, I created clusters based on user behavior and sustainable shopping preferences. This segmentation revealed four key personas with unique motivations and obstacles toward sustainable purchasing. These insights can be used to develop more effective marketing campaigns and tailored product recommendations.
+
+- Segmented respondents into behavioral clusters using survey attributes.
+- Identified high-potential customer groups for targeted sustainable product strategies.
+
+**Segmentation Visual:**
+
+![Customer Segment Distribution](https://github.com/farahzak/Ipsos-Market-Research-Simulation/blob/main/images/Customer%20Segment%20Distribution%20(1).png)
 
 ---
 
