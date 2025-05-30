@@ -20,7 +20,7 @@ Another key point was trying to find issues as to why consumers were not leaning
 - **[View the Questionnaire (PDF)](https://github.com/farahzak/Ipsos-Market-Research-Simulation/raw/main/ipsos_questionnaire.pdf)**
 - Screenshot example:
   
-  ![Questionnaire Screenshot](https://github.com/farahzak/Ipsos-Market-Research-Simulation/raw/main/screenshots/questionnaire.png)
+![Questionnaire Screenshot](https://github.com/farahzak/Ipsos-Market-Research-Simulation/blob/main/images/questionnaire_screenshot.png)
 
 ---
 
